@@ -6,7 +6,7 @@
 
 3. Verify that Selenium is installed. 
     You can install selenium like this: 
-    pip install selenium
+    pip install selenium.
     If you have problems with Selenium, verify
     that python 3 is in your system path.
 
